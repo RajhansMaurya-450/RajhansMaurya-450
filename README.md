@@ -49,5 +49,5 @@ React-based weather application using OpenWeather API.
 
 ## 📫 Connect With Me
 
-* LinkedIn: [www.linkedin.com/in/raj-hans-maurya-b840b3287](http://www.linkedin.com/in/raj-hans-maurya-b840b3287)
+* LinkedIn:  <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin"/> (http://www.linkedin.com/in/raj-hans-maurya-b840b3287)
 * Portfolio: rajhansmaurya-portfolio.netlify.app
