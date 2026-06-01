@@ -20,6 +20,7 @@
   <img src="https://skillicons.dev/icons?i=git" alt="Git"/>
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/>
+   <img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
 </p>
 
 ## 📌 Featured Projects
