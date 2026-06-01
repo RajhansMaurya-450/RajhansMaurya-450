@@ -4,13 +4,23 @@
 
 💻 Passionate about building scalable web applications and solving real-world problems.
 
-## 🚀 Tech Stack
+<h3>🚀 Tech Stack</h3>
 
-* Frontend: React.js, JavaScript, HTML, CSS
-* Backend: Node.js, Express.js
-* Database: MongoDB, PostgreSQL
-* Languages: Java, JavaScript, Python
-* Tools: Git, GitHub, VS Code
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mySQL"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/>
+</p>
 
 ## 📌 Featured Projects
 
