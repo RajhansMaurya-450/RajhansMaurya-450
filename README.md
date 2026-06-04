@@ -21,6 +21,7 @@
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/>
    <img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=redis" alt="Redis"/>
 </p>
 
 ## 📌 Featured Projects
@@ -45,6 +46,7 @@ React-based weather application using OpenWeather API.
 
 * Data Structures & Algorithms
 * Java Programming
+* JavaScript Programming
 * Regular LeetCode Practice
 
 ## 📫 Connect With Me
