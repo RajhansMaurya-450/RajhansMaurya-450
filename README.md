@@ -55,5 +55,5 @@ React-based weather application using OpenWeather API.
 * Portfolio: (http://rajhansmaurya-portfolio.netlify.app)
 * Leetcode: (https://leetcode.com/u/966n1ZdjnK/)
 
-## GitHub Contribution Graph
+## GitHub Contribution Graph <i class="fas fa-chart-line"></i>
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RajhansMaurya-450&theme=tokyo-night)
