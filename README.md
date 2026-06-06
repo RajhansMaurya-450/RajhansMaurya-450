@@ -10,6 +10,7 @@
   <img src="https://skillicons.dev/icons?i=html" alt="HTML5"/>
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3"/>
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"/>
   <img src="https://skillicons.dev/icons?i=react" alt="React"/>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/>
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js"/>
