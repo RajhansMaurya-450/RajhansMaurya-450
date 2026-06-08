@@ -45,7 +45,7 @@ React-based weather application using OpenWeather API.
 
 ## 📊 LeetCode & Problem Solving
 
-* Data Structures & Algorithms
+* DSA
 * Java Programming
 * JavaScript Programming
 * Regular LeetCode Practice
