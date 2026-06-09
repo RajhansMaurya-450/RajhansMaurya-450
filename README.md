@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=redis" alt="Redis"/>
 </p>
 
-## 📌 Featured Projects
+## My Projects
 
 ### 💬 Chit Chat Messenger
 
