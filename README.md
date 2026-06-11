@@ -33,7 +33,7 @@ Real-time full stack chat application with modern UI, secure authentication and 
 
 ### 🏨 HotelsHub
 
-Full-stack hotel/property listing platform built using MERN stack with authentication, authorization and role based access.
+Full-stack hotel/property listing platform built using MERN stack with authentication, authorization ,role based access and Geocoding features.
 
 ### 📈 Kuberum
 
