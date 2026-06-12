@@ -41,7 +41,7 @@ Full Stack mern Stock trading web application with holdings, buy/sell features a
 
 ### 🌦 Weather App
 
-React-based weather application using OpenWeather API.
+React-based weather application using OpenWeather API with city search feature
 
 ## 📊 LeetCode
 
