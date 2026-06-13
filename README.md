@@ -35,7 +35,7 @@ Real-time full stack chat application with modern UI, secure authentication and 
 
 Full-stack hotel/property listing platform built using MERN stack with authentication, authorization ,role based access and Geocoding features.
 
-### 📈 Kuberum
+### 📈 Kuberum Trading
 
 Full Stack mern Stock trading web application with holdings, buy/sell features and charts.
 
