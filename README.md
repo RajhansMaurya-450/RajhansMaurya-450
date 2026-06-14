@@ -29,7 +29,7 @@
 
 ### 💬 Chit Chat Messenger
 
-Real-time full stack chat application with modern UI, secure authentication and authorization.
+Real-time full stack chat application with modern UI, secure authentication and authorization and many chatting features.
 
 ### 🏨 HotelsHub
 
