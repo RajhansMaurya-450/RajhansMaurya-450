@@ -58,6 +58,3 @@ React-based weather application using OpenWeather API with city search feature a
 
 ## 📈 GitHub Contribution Graph 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RajhansMaurya-450&theme=tokyo-night)
-
-##GitHub Contribution Stats
-![github stats](https://camo.githubusercontent.com/username=RajhansMaurya-450)
