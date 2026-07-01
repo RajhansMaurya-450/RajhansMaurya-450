@@ -2,7 +2,7 @@
 
 ### Full Stack MERN Developer
 
-💻 Passionate about building scalable web applications and solving real world problem
+💻 Passionate about building scalable web applications and solving real world problems.
 
 <h3>🚀 Tech Stack</h3>
 
@@ -39,7 +39,7 @@ Full-stack hotel/property listing platform built using MERN stack with authentic
 
 Full Stack mern Stock trading web application with holdings, buy/sell features and charts and other features.
 
-### 🌦 Weather App
+### 🌦 Weather Application
 
 React-based weather application using OpenWeather API with city search feature and wind speedand many weather related data.
 
