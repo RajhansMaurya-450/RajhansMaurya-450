@@ -2,7 +2,7 @@
 
 ### Full Stack MERN Developer
 
-💻 Passionate about building scalable web applications and solving real world problems.
+💻 Focused on developing scalable web applications using modern technologies and industry best practices.
 
 <h3>🚀 Tech Stack</h3>
 
