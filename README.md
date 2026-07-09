@@ -27,7 +27,7 @@
 
 ## My Projects
 
-### 💬 Chit-Chat Messenger App
+### 💬 Chit-Chat Messenger Application
 
 Real-time full stack chat application with modern UI, secure authentication and authorization and many chatting features using socket IO.
 
