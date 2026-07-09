@@ -2,7 +2,7 @@
 
 ### Full Stack MERN Developer
 
-💻 Building scalable, secure and maintainable web applications with a focus on performance and user experience. Backend enthusiactic developer searching for oppurtunities.
+💻 Building scalable, secure and maintainable web applications with a focus on performance and user experience. Backend enthusiactic developer searching for oppurtunities
 
 <h3>🚀 Tech Stack</h3>
 
