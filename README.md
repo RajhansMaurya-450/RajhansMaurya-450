@@ -2,7 +2,7 @@
 
 ### Full Stack MERN Developer
 
-💻 Building scalable, secure and maintainable web applications with a focus on performance and user experience. Backend enthusiactic developer searching for oppurtunities
+💻 Building scalable, secure and maintainable web applications with a focus on performance and user experience. Backend enthusiactic developer searching for oppurtunities.
 
 <h3>🚀 Tech Stack</h3>
 
@@ -29,11 +29,11 @@
 
 ### 💬 Chit-Chat Messenger App
 
-Real-time full stack chat application with modern UI, secure authentication and authorization and many chatting features using socket IO.
+Real-time full stack chat application with modern UI, secure authentication and authorization and many chatting features using socketIO.
 
 ### 🏨 HotelsHub Application
 
-Full-stack hotel/property listing platform built using MERN stack with authentication, authorization ,role based access and Geocoding features.
+Full stack hotel/property listing platform built using MERN stack with authentication, authorization ,role based access and Geocoding features.
 
 ### 📈 Kuberum Trading App
 
