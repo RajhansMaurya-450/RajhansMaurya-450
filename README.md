@@ -29,13 +29,13 @@
 
 ### 💬 Chit-Chat Messenger App
 
-Real-time full stack chat application with modern UI, secure authentication and authorization and many chatting features using socketIO.
+Real-time full stack chat application with modern UI, secure authentication, authorization and many chatting features using socketIO.
 
 ### 🏨 HotelsHub Application
 
 Full stack hotel/property listing platform built using MERN stack with authentication, authorization ,role based access and Geocoding features.
 
-### 📈 Kuberum Trading Application
+### 📈 Kuberum Trading App
 
 Full Stack mern Stock trading web application with holdings, buy/sell features, charts and other features.
 
