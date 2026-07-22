@@ -48,7 +48,7 @@ React based weather application using OpenWeather API with city search feature a
 * Data-Structures & Algorithms
 * Java Programming
 * JavaScript Programming
-* 100+ leetcode Questions
+* leetcode Questions
 
 ## 📫 Connect With Me
 
