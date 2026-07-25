@@ -1,6 +1,6 @@
 # Hi 👋, I'm Raj Hans Maurya
 
-### Full Stack MERN Developer...
+### Full Stack MERN Developer
 
 💻 Building scalable, secure and maintainable web applications with a focus on performance and user experiences. Backend enthusiactic developer searching for oppurtunities..
 
