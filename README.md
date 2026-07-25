@@ -1,6 +1,6 @@
 # Hi 👋, I'm Raj Hans Maurya
 
-### Full Stack MERN Developer
+### Full Stack MERN Developer...
 
 💻 Building scalable, secure and maintainable web applications with a focus on performance and user experiences. Backend enthusiactic developer searching for oppurtunities..
 
@@ -39,7 +39,7 @@ Full stack hotel/property listing platform built using MERN stack with authentic
 
 Full Stack mern Stock trading web application with holdings, buy/sell features, charts and other features.
 
-### 🌦 Weather App
+### 🌦 Weather Application
 
 React based weather application using OpenWeather API with city search feature and wind speed and many weather related data and stats.
 
