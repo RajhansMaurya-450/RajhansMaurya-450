@@ -23,6 +23,7 @@
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/>
    <img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
   <img src="https://skillicons.dev/icons?i=redis" alt="Redis"/>
+  <img src="https://skillicons.dev/icons?i=redis" alt="JWT"/>
 </p>
 
 ## My Projects
