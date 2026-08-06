@@ -23,6 +23,8 @@
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/>
    <img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
   <img src="https://skillicons.dev/icons?i=redis" alt="Redis"/>
+  ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge&logo=oauth&logoColor=white)
 </p>
 
 ## My Projects
