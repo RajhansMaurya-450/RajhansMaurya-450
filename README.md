@@ -24,8 +24,11 @@
    <img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
   <img src="https://skillicons.dev/icons?i=redis" alt="Redis"/>
 </p>
- ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge&logo=oauth&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge" />
+</p>
+ 
 ## My Projects
 
 ### 💬 Chit-Chat Messenger App
@@ -59,3 +62,4 @@ React based weather application using OpenWeather API with city search feature a
 
 ## 📈 GitHub Contribution Graph 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RajhansMaurya-450&theme=tokyo-night)
+
