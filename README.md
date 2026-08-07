@@ -27,8 +27,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge" />
 </p>
- ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white)
+
  
 ## My Projects
 
