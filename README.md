@@ -60,7 +60,9 @@ React based weather application using OpenWeather API with city search feature a
 
 ## 📫 Connect With Me
 
-* LinkedIn: (http://www.linkedin.com/in/raj-hans-maurya-b840b3287)
+* LinkedIn: <a href="http://www.linkedin.com/in/raj-hans-maurya-b840b3287">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 * Portfolio: (http://rajhansmaurya-portfolio.netlify.app)
 * Leetcode: (https://leetcode.com/u/966n1ZdjnK/)
 
