@@ -74,7 +74,13 @@ React based weather application using OpenWeather API with city search feature a
        height="40"
        alt="Portfolio"/>
 </a>
-* Leetcode: (https://leetcode.com/u/966n1ZdjnK/)
+* Leetcode:
+<a href="https://leetcode.com/u/966n1ZdjnK/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"
+       width="40"
+       height="40"
+       alt="LeetCode"/>
+</a>
 
 ## 📈 GitHub Contribution Graph 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RajhansMaurya-450&theme=tokyo-night)
