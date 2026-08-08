@@ -60,9 +60,7 @@ React based weather application using OpenWeather API with city search feature a
 
 ## 📫 Connect With Me
 
-* LinkedIn: <a href="http://www.linkedin.com/in/raj-hans-maurya-b840b3287">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+* LinkedIn: 
 <a href="http://www.linkedin.com/in/raj-hans-maurya-b840b3287" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
        width="40"
