@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
 </p>
 
  
