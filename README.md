@@ -39,7 +39,7 @@
 
 Real-time full stack chat application with modern UI, secure authentication, authorization and many chatting features like live typing feature using socketIO.
 
-### 🏨 HotelsHub App
+### 🏨 HotelsHub Listing Application
 
 Full stack hotel/property listing platform built using MERN stack with authentication, authorization ,role based access and Geocoding features.
 
