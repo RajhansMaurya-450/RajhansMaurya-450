@@ -59,22 +59,21 @@ React based weather application using OpenWeather API with city search feature a
 * 100+ leetcode Questions
 
 ## 📫 Connect With Me
-
-* LinkedIn: 
+ 
 <a href="http://www.linkedin.com/in/raj-hans-maurya-b840b3287" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
        width="40"
        height="40"
        alt="LinkedIn"/>
 </a>
-* Portfolio:
-* <a href="http://rajhansmaurya-portfolio.netlify.app" target="_blank">
+
+ <a href="http://rajhansmaurya-portfolio.netlify.app" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
        width="40"
        height="40"
        alt="Portfolio"/>
 </a>
-* Leetcode:
+
 <a href="https://leetcode.com/u/966n1ZdjnK/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"
        width="40"
