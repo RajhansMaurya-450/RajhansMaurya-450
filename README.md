@@ -67,8 +67,8 @@ React based weather application using OpenWeather API with city search feature a
        height="40"
        alt="LinkedIn"/>
 </a>
-* Portfolio: (http://rajhansmaurya-portfolio.netlify.app)
-* <a href="[YOUR_PORTFOLIO_URL](http://rajhansmaurya-portfolio.netlify.app)" target="_blank">
+* Portfolio:
+* <a href="http://rajhansmaurya-portfolio.netlify.app" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
        width="40"
        height="40"
