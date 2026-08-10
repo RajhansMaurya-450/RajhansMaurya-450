@@ -35,7 +35,7 @@
  
 ## My Projects
 
-### 💬 Chit-Chat Messenger App
+### 💬 Chit-Chat Messenger Applicstion
 
 Real-time full stack chat application with modern UI, secure authentication, authorization and many chatting features like live typing feature using socketIO.
 
@@ -45,7 +45,7 @@ Full stack hotel/property listing platform built using MERN stack with authentic
 
 ### 📈 Kuberum Trading Application
 
-Full Stack mern Stock trading web application with holdings, buy/sell features, charts and other features.
+Full Stack mern Stock trading web application with holdings, buy/sell features, charts and other features
 
 ### 🌦 Weather Application
 
