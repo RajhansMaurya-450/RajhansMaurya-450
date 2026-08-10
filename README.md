@@ -45,7 +45,7 @@ Full stack hotel/property listing platform built using MERN stack with authentic
 
 ### 📈 Kuberum Trading Application
 
-Full Stack mern Stock trading web application with holdings, buy/sell features, charts and other features
+Full Stack mern Stock trading web application with holdings, buy/sell features, charts and other features like RBAC and many more.
 
 ### 🌦 Weather Application
 
