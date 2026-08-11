@@ -35,7 +35,7 @@
  
 ## My Projects
 
-### 💬 Chit-Chat Messenger Applicstion
+### 💬 Chit-Chat Messenger Application
 
 Real-time full stack chat application with modern UI, secure authentication, authorization and many chatting features like live typing feature using socketIO.
 
@@ -58,7 +58,7 @@ React based weather application using OpenWeather API with city search feature a
 * JavaScript Programming
 * 100+ leetcode Questions
 
-## 📫 Connect With Me
+## 📫 Connect With Me...
  
 <a href="http://www.linkedin.com/in/raj-hans-maurya-b840b3287" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
