@@ -2,7 +2,7 @@
 
 ### Full Stack MERN Developer
 
-💻 Building scalable, secure and maintainable web applications with a focus on performance and user experiences. Backend enthusiactic developer searching for oppurtunities..
+💻 Building scalable, secure and maintainable web applications with a focus on performance and user experiences. Backend enthusiactic developer searching for oppurtunities.
 
 <h3>🚀 Tech Stack</h3>
 
@@ -36,7 +36,7 @@
  
 ## My Projects
 
-### 💬 Chit-Chat Messenger Application
+### 💬 Chit-Chat Messenger App
 
 Real-time full stack chat application with modern UI, secure authentication, authorization and many chatting features like live typing feature using socketIO.
 
@@ -48,7 +48,7 @@ Full stack hotel/property listing platform built using MERN stack with authentic
 
 Full Stack mern Stock trading web application with holdings, buy/sell features, charts and other features like RBAC and many more.
 
-### 🌦 Weather Application
+### 🌦 Weather App
 
 React based weather application using OpenWeather API with city search feature and wind speed and many weather related data.
 
