@@ -42,7 +42,7 @@ Real-time full stack chat application with modern UI, secure authentication, aut
 
 ### 🏨 HotelsHub Listing Application
 
-Full stack hotel/property listing platform built using MERN stack with authentication, authorization ,role based access and Geocoding features.
+Full stack hotel/property listing platform built using MERN stack with authentication, authorization ,role based access and Geocoding features and many more.
 
 ### 📈 Kuberum Trading Application
 
