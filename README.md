@@ -46,7 +46,7 @@ Full stack hotel/property listing platform built using MERN stack with authentic
 
 ### 📈 Kuberum Trading App
 
-Full Stack mern Stock trading web application with holdings, buy/sell features, charts and other features like RBAC and many more.
+Full Stack Mern Stock trading web application with holdings, buy/sell features, charts and other features like RBAC and many more.
 
 ### 🌦 Weather Application (Open weather API)
 
@@ -59,7 +59,7 @@ React based weather application using OpenWeather API to fetch the data from the
 * JavaScript Programming
 * 100+ leetcode Questions
 
-## 📫 Connect With Me...
+## 📫 Connect With Me..
  
 <a href="http://www.linkedin.com/in/raj-hans-maurya-b840b3287" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
