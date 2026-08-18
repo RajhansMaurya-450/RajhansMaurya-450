@@ -52,14 +52,14 @@ Full Stack Mern Stock trading web application with holdings, buy/sell features, 
 
 React based weather application using OpenWeather API to fetch the data from the server, with city search feature and wind speed and many weather related data.
 
-## 📊 LeetCode
+## 📊 LeetCode Problems
 
 * Data-Structures & Algorithms
 * Java Programming
 * JavaScript Programming
 * 100+ leetcode Questions
 
-## 📫 Connect With Me..
+## 📫 Connect With Me..!
  
 <a href="http://www.linkedin.com/in/raj-hans-maurya-b840b3287" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
