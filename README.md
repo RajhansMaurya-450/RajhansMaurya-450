@@ -48,7 +48,7 @@ Full stack hotel/property listing platform built using MERN stack with authentic
 
 Full Stack Mern Stock trading web application with holdings, buy/sell features, charts and other features like RBAC and many more.
 
-### 🌦 Weather Application (Open weather API)
+### 🌦 Weather Application
 
 React based weather application using OpenWeather API to fetch the data from the server, with city search feature and wind speed and many weather related data.
 
