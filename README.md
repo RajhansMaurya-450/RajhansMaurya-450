@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/RBAC-6C5CE7?style=for-the-badge&logoColor=white />
+  <img src="https://img.shields.io/badge/RBAC-6C5CE7?style=for-the-badge&logoColor=white" />
 </p>
 
  
