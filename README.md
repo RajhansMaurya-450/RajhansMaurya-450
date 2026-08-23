@@ -7,22 +7,22 @@
 <h3>🚀 Tech Stack</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3"/>
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="React"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=express" alt="Express.js"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="mySQL"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java"/>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/>
-   <img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
-  <img src="https://skillicons.dev/icons?i=redis" alt="Redis"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="Javascript"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React.js"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mySQL" title="mySQL"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS code"/>
+   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis"/>
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
@@ -32,8 +32,8 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/RBAC-6C5CE7?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVC-F97316?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RBAC-6C5CE7?style=for-the-badge&logoColor=white" title="Role Based Access"/>
+  <img src="https://img.shields.io/badge/MVC-F97316?style=for-the-badge&logoColor=white" title="Model View Controller" />
 </p>
 
  
