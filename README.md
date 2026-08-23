@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/RBAC-6C5CE7?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/MVC-F97316?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
  
