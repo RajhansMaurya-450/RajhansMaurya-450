@@ -39,7 +39,7 @@
  
 ## My Projects
 
-### 💬 Chit-Chat Messenger
+### 💬 Chit-Chat Messenger Application
 
 Real-time full stack chat application with modern UI, secure authentication, authorization and many chatting features like live typing feature using socketIO.
 
