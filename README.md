@@ -46,7 +46,7 @@ Real-time full stack chat application with modern UI, secure authentication, aut
 
 ### 🏨 HotelsHub Listing Application
 
-Full stack hotel/property listing platform built using MERN stack with authentication, authorization  using passport.js ,role based access and Geocoding features and many more.
+Full stack hotel/property listing platform built using MERN stack with authentication, authorization  using passport.js ,role based access and Geocoding features and many more full stack features.
 
 ### 📈 Kuberum Trading Application
 
