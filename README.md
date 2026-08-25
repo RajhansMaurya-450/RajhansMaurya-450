@@ -47,7 +47,7 @@ Real-time full stack chat application with modern UI, secure authentication, aut
 
 Full stack hotel/property listing platform built using MERN stack with authentication, authorization  using passport.js ,role based access and Geocoding features and many more.
 
-### 📈 Kuberum Trading App
+### 📈 Kuberum Trading Application
 
 Full Stack Mern Stock trading web application with holdings, buy/sell features, charts and other features like RBAC and many more trading features.
 
