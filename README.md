@@ -90,6 +90,4 @@ React based weather application using OpenWeather API to fetch the data from the
 </a>
 
 ## 📈 GitHub Contribution Graph 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RajhansMaurya-450&theme=tokyo-night)
-![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RajhansMaurya-450)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajhansMaurya-450&show_icons=true&theme=tokyonight)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RajhansMaurya-450&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
