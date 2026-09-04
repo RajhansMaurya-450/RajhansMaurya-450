@@ -89,5 +89,3 @@ React based weather application using OpenWeather API to fetch the data from the
        title="LeetCode" />
 </a>
 
-## GitHub Contribution Graph <i class="fas fa-chart-line"></i>
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RajhansMaurya-450&theme=tokyo-night)
