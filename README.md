@@ -30,8 +30,8 @@
   <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RBAC-6C5CE7?style=for-the-badge&logoColor=white" title="Role Based Access"/>
   <img src="https://img.shields.io/badge/MVC-F97316?style=for-the-badge&logoColor=white" title="Model View Controller" />
  
