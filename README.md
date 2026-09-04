@@ -65,7 +65,7 @@ React based weather application using OpenWeather API to fetch the data from the
 
 ## 📫 Connect With Me..
  
-<a href="http://www.linkedin.com/in/raj-hans-maurya-b840b3287" target="_blank">
+<a href="http://www.linkedin.com/in/raj-hans-maurya-b840b3287" target="blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
        width="40"
        height="40"
