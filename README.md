@@ -88,4 +88,3 @@ React based weather application using OpenWeather API to fetch the data from the
        alt="LeetCode"
        title="LeetCode" />
 </a>
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RajhansMaurya-450)](https://github.com/RajhansMaurya-450/github-readme-activity-graph)
