@@ -72,6 +72,7 @@ React based weather application using OpenWeather API to fetch the data from the
        alt="LinkedIn"
        title="LinkedIn" />
 </a>
+<h3>LinkedIN</h3>
 &nbsp &nbsp &nbsp
   <a href="http://rajhansmaurya-portfolio.netlify.app" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png"
@@ -80,6 +81,7 @@ React based weather application using OpenWeather API to fetch the data from the
        alt="Portfolio"
        title="Portfolio" />
 </a>
+<h3>Portfolio</h3>
 &nbsp &nbsp &nbsp
 <a href="https://leetcode.com/u/966n1ZdjnK/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"
@@ -88,3 +90,4 @@ React based weather application using OpenWeather API to fetch the data from the
        alt="LeetCode"
        title="LeetCode" />
 </a>
+<h3>LeetCode</h3>
