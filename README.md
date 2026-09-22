@@ -72,7 +72,7 @@ React based weather application using OpenWeather API to fetch the data from the
        alt="LinkedIn"
        title="LinkedIn" />
 </a>
-<h3>LinkedIN</h3>
+<strong>LinkedIN</strong>
 &nbsp &nbsp &nbsp
   <a href="http://rajhansmaurya-portfolio.netlify.app" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png"
