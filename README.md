@@ -71,7 +71,6 @@ React based weather application using OpenWeather API to fetch the data from the
        height="40"
        alt="LinkedIn"
        title="LinkedIn" />
-  <br>
 <strong>LinkedIN</strong>
 </a>
   <a href="http://rajhansmaurya-portfolio.netlify.app" target="_blank">
@@ -80,7 +79,6 @@ React based weather application using OpenWeather API to fetch the data from the
        height="40"
        alt="Portfolio"
        title="Portfolio" />
-    <br>
     <strong>Portfolio</strong>
 </a>
 <a href="https://leetcode.com/u/966n1ZdjnK/" target="_blank">
